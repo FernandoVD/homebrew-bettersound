@@ -1,6 +1,6 @@
 cask "bettersound" do
   version "1.2.0"
-  sha256 "ee28f5176881e6b03c5ac89e3973b3c63c7c93642c1f343ff13964693ef90edc"
+  sha256 "2bb3eea5483e60b009627d979447385b6739fe81216a663e4ceacc95e3205b12"
 
   url "https://github.com/FernandoVD/BetterSound/releases/download/v#{version}/BetterSound.zip"
   name "BetterSound"
